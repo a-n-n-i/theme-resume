@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 安妮
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ni An
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ni
+last_name: An
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD in Sustech
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Sustech
     url: https://www.example.com/
 
 # Social network links
