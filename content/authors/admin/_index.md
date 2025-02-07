@@ -21,7 +21,7 @@ role: PhD in Sustech
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Sustech
+  - name: Southern university of science and technology
     url: https://www.example.com/
 
 # Social network links
