@@ -53,17 +53,15 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Publication: ALGEBRAIC ASPECTS OF HOLOMORPHIC QUANTUM MODULAR FORMS
+    company_name: with Stavros Garoufalidis and Shana YunSheng Li
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: ''
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      http://arxiv.org/pdf/2403.02880
 
 ---
 
