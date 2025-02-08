@@ -39,7 +39,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
-education:
+education and publication:
   - area: BSc Mathmatics
     institution: LanZhou University
     date_start: 2018-09-01
