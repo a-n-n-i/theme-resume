@@ -45,7 +45,7 @@ education:
     date_start: 2018-09-01
     date_end: 2022-07-01
     summary: |
-      GPA: 3.8/4.0
+      
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -56,21 +56,12 @@ education:
     date_start: 2022-09-01
     date_end: 
     summary: |
-      #GPA: 3.8/4.0
+      
 
       Publication:
       - with Stavros Garoufalidis and Shana Yunsheng Li, Algebraic aspects of holomorphic quantum modular forms
       - link: https://link.springer.com/article/10.1007/s40687-024-00464-9
-work:
-  - position: publication-Algebraic aspects of holomorphic quantum modular forms
-    company_name: with Stavros Garoufalidis and Shana Yunsheng Li
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: 
-    summary: |2-
-      Link:
-      - (https://link.springer.com/article/10.1007/s40687-024-00464-9)
+
  
 
 ---
