@@ -15,9 +15,6 @@ sections:
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download Résmé
-        url: uploads/resume.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -25,7 +22,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+  - block: experien
     content:
       username: admin
     design:
