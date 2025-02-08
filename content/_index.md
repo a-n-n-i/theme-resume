@@ -14,8 +14,7 @@ sections:
   - block: biography
     content:
       username: admin
-      # Show a call-to-action button under your biography? (optional)
-      
+      # Show a call-to-action button under your biography? (optional)      
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -23,13 +22,12 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: Publication
+  - block: publication
     content:
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
-  
+      is_education_first: false  
 ---
