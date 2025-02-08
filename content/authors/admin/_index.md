@@ -53,15 +53,16 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   
 work:
-  - position: Publication: ALGEBRAIC ASPECTS OF HOLOMORPHIC QUANTUM MODULAR FORMS
-    company_name: with Stavros Garoufalidis and Shana YunSheng Li
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: ''
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      http://arxiv.org/pdf/2403.02880
+      - (https://link.springer.com/article/10.1007/s40687-024-00464-9)
+ 
 
 ---
 
