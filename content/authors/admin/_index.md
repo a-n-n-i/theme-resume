@@ -52,7 +52,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   
-work:
+publication:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
