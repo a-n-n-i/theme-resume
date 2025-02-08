@@ -39,7 +39,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
 
-education and publication:
+education:
   - area: BSc Mathmatics
     institution: LanZhou University
     date_start: 2018-09-01
@@ -51,7 +51,17 @@ education and publication:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
+  - area: PhD Mathmatics
+    institution: Sustech
+    date_start: 2022-09-01
+    date_end: 
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: publication-Algebraic aspects of holomorphic quantum modular forms
     company_name: with Stavros Garoufalidis and Shana Yunsheng Li
