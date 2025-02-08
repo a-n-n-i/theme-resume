@@ -54,7 +54,7 @@ education:
   
 work:
   - position: publication-Algebraic aspects of holomorphic quantum modular forms
-    company_name: GenCoin
+    company_name: with Stavros Garoufalidis and Shana Yunsheng Li
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
