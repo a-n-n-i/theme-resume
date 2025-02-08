@@ -53,7 +53,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   
 work:
-  - position: Algebraic aspects of holomorphic quantum modular forms
+  - position: publication-Algebraic aspects of holomorphic quantum modular forms
     company_name: GenCoin
     company_url: ''
     company_logo: ''
