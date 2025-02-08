@@ -57,7 +57,7 @@ work:
     company_name: with Stavros Garoufalidis and Shana Yunsheng Li
     company_url: ''
     company_logo: ''
-    date_start:'' 
+    date_start: '' 
     date_end: ''
     summary: |2-
       Link:
