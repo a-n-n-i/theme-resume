@@ -63,4 +63,4 @@ education:
  
 
 ---
-I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. I am currently studying moduli spaces by using the systole function, and look forward to learning and researching more about it.
+I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. I am currently studying moduli space by using the systole function, and look forward to learning and researching more about it.
