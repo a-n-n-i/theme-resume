@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD in Sustech
+role: Sustech
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -57,9 +57,10 @@ education:
       Publication:
       - with Stavros Garoufalidis and Shana Yunsheng Li, Algebraic aspects of holomorphic quantum modular forms
       - link: https://link.springer.com/article/10.1007/s40687-024-00464-9
+      - With Ferdinand Ihringer and Ingrid Irmer, Small genus, small index critical points of the systole function
+      - link: http://arxiv.org/abs/2504.17316
 
  
 
 ---
-
-I'm a student at Southern University of Science and Technology. My advisers are Stavros Garoufalidis and Ingrid Irmer. I have a profound interest in geometric topology and quantum topology. Currently, I'm delving into research related to Morse functions and moduli spaces. It's a challenging yet rewarding journey, as I try to understand the intricate relationships within these mathematical objects and their applications in broader theoretical frameworks. I'm excited about the potential insights this research could bring and look forward to contributing to the field. 
+I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. I am currently studying moduli spaces by using the systole function, and look forward to learning and researching more about it.
