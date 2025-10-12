@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Sustech
+# role: Sustech
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
