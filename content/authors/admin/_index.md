@@ -61,7 +61,7 @@ education:
       - An, N., Saha, B., Sanki, B. (2026). Length minimization of filling pairs on hyperbolic surfaces. https://arxiv.org/abs/2601.15524
  
 GitHub Repository:
-  - https://github.com/a-n-n-i/compuations(code associated my work is here)
+  - aaa
     company_name: GenCoin
     company_url: ''
     company_logo: ''
