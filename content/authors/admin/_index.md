@@ -55,12 +55,9 @@ education:
       
 
       Publication:
-      - with Stavros Garoufalidis and Shana Yunsheng Li, Algebraic aspects of holomorphic quantum modular forms
-      - link: https://link.springer.com/article/10.1007/s40687-024-00464-9
-      - With Ferdinand Ihringer and Ingrid Irmer, Small genus, small index critical points of the systole function
-      - link: http://arxiv.org/abs/2504.17316
-      - with Bhola Nath Saha, Bidyut Sanki, Length minimization of filling pairs on hyperbolic surfaces
-      - link: https://arxiv.org/abs/2601.15524
+      - An, N., Garoufalidis, S., Li, S. (2024). Algebraic aspects of holomorphic quantum modular forms. Research in the Mathematical Sciences. https://link.springer.com/article/10.1007/s40687-024-00464-9 
+      - An, N., Ihringer, F., & Irmer, I. (2026). Small genus, small index critical points of the systole function. Experimental Mathematics. https://doi.org/10.1080/10586458.2026.2666509
+      - An, N., Saha, B., Sanki, B. (2026). Length minimization of filling pairs on hyperbolic surfaces, with Bhola Nath Saha, Bidyut Sanki. https://arxiv.org/abs/2601.15524
  
 
 ---
