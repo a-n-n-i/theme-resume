@@ -61,4 +61,4 @@ education:
  
 
 ---
-I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. I'm interested in topology, and look forward to learning and researching more about it.
+I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. My research interests lie primarily in topology, including hyperbolic geometry, moduli spaces, and low-dimensional topology.
