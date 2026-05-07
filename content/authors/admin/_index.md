@@ -38,13 +38,6 @@ organizations:
   #  url: https://www.linkedin.com/
   # - icon: brands/instagram
   #  url: https://www.instagram.com/
-work:
-  - TA experiences
-    
-      - Mathematical Analysis
-      - Ordinary Differential Equations
-      - Differentiable Manifolds
-      - Complex Analysis
 
 education:
   - area: BSc Mathmatics
