@@ -60,13 +60,5 @@ education:
       - An, N., Ihringer, F., & Irmer, I. (2025). Small genus, small index critical points of the systole function. Experimental Mathematics. https://doi.org/10.1080/10586458.2026.2666509
       - An, N., Saha, B., Sanki, B. (2026). Length minimization of filling pairs on hyperbolic surfaces. https://arxiv.org/abs/2601.15524
  
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
 ---
 I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. My research interests lie primarily in topology, including hyperbolic geometry, moduli space, and low-dimensional topology.
