@@ -56,9 +56,9 @@ education:
 
       Publication:
       - An, N., Garoufalidis, S., Li, S. (2024). Algebraic aspects of holomorphic quantum modular forms. Research in the Mathematical Sciences. https://link.springer.com/article/10.1007/s40687-024-00464-9 
-      - An, N., Ihringer, F., & Irmer, I. (2026). Small genus, small index critical points of the systole function. Experimental Mathematics. https://doi.org/10.1080/10586458.2026.2666509
+      - An, N., Ihringer, F., & Irmer, I. (2025). Small genus, small index critical points of the systole function. Experimental Mathematics. https://doi.org/10.1080/10586458.2026.2666509
       - An, N., Saha, B., Sanki, B. (2026). Length minimization of filling pairs on hyperbolic surfaces. https://arxiv.org/abs/2601.15524
  
-
+GitHub Repository: https://github.com/a-n-n-i/compuations  (code associated my work is here)
 ---
 I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. My research interests lie primarily in topology, including hyperbolic geometry, moduli space, and low-dimensional topology.
