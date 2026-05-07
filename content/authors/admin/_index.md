@@ -40,6 +40,7 @@ organizations:
   #  url: https://www.instagram.com/
 work:
   - TA experiences
+    
       - Mathematical Analysis
       - Ordinary Differential Equations
       - Differentiable Manifolds
