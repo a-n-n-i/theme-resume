@@ -59,7 +59,8 @@ education:
       - link: https://link.springer.com/article/10.1007/s40687-024-00464-9
       - With Ferdinand Ihringer and Ingrid Irmer, Small genus, small index critical points of the systole function
       - link: http://arxiv.org/abs/2504.17316
-
+      - with Bhola Nath Saha, Bidyut Sanki, Length minimization of filling pairs on hyperbolic surfaces
+      - link: https://arxiv.org/abs/2601.15524
  
 
 ---
