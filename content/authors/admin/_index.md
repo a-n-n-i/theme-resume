@@ -40,14 +40,14 @@ organizations:
   #  url: https://www.instagram.com/
 
 education:
-  - area: BSc Mathmatics
+  - area: BSc Mathematics
     institution: LanZhou University
     date_start: 2018-09-01
     date_end: 2022-07-01
     summary: |
     
       
-  - area: PhD Mathmatics
+  - area: PhD Mathematics
     institution: Sustech
     date_start: 2022-09-01
     date_end: 
