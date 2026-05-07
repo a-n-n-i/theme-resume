@@ -24,7 +24,7 @@ organizations:
   - name: 12231265@mail.sustech.edu.cn
     url: https://www.example.com/
 
-# Social network links
+Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 # profiles:
   # - icon: at-symbol
@@ -38,7 +38,9 @@ organizations:
   #  url: https://www.linkedin.com/
   # - icon: brands/instagram
   #  url: https://www.instagram.com/
-GitHub Repository: https://github.com/a-n-n-i/compuations  (code associated my work is here)
+GitHub Repository: 
+- https://github.com/a-n-n-i/compuations  (code associated my work is here)
+
 education:
   - area: BSc Mathmatics
     institution: LanZhou University
