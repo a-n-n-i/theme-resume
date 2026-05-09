@@ -61,6 +61,6 @@ education:
 
         
       GitHub Repository:
-      - https://github.com/a-n-n-i/compuations (code associated with my work is here)
+      # - https://github.com/a-n-n-i/compuations (code associated with my work is here)
 ---
 I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. My research interests lie primarily in topology, including hyperbolic geometry, moduli space, and low-dimensional topology.
