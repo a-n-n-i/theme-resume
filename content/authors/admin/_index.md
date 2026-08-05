@@ -60,7 +60,7 @@ education:
       - An, N., Saha, B., Sanki, B. (2026). Length minimization of filling pairs on hyperbolic surfaces. https://arxiv.org/abs/2601.15524
 
         
-      GitHub Repository:
+      # GitHub Repository:
       
 ---
 I am currently a PhD student at Southern University of Science and Technology. My supervisors are Ingrid Irmer and Stavros Garoufalidis. My research interests lie primarily in topology, including hyperbolic geometry, moduli space, and low-dimensional topology.
